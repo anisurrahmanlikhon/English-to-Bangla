@@ -8343,7 +8343,7 @@
 |woebegone|বিষাদমলিন
 |wolf|শেয়াল
 |womb|গর্ভ
-|women|মহিলা
+|women|মহিলারা
 |wonder|বিস্ময়
 |wonder|বিস্ময়
 |wonderfully|চমৎ‍কারভাবে
@@ -17253,8 +17253,8 @@
 |visual|দর্শন সংক্রান্ত
 |visual|চাক্ষুষ
 |withstand|প্রতিরোধ করা
-|women|স্ত্রীলোক
-|women|নারী
+|women|স্ত্রীলোকরা
+|women|নারীরা
 |voluble|বাচাল
 |voluble|অনর্গল বক্তৃতা দিতে পারে এমন
 |wicked|দুষ্ট
