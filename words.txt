@@ -8341,7 +8341,7 @@
 |wizards|উইজার্ড
 |woe|শোক
 |woebegone|বিষাদমলিন
-|wolf|শেয়াল
+|wolf|নেঁকড়ে
 |womb|গর্ভ
 |women|মহিলারা
 |wonder|বিস্ময়
